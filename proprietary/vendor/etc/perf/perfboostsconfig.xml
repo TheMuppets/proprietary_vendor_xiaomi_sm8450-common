@@ -297,7 +297,7 @@
         <Config
             Id="0x00001083" Enable="true" Timeout="400"
             Resources="0x40804000, 0xFFF, 0x40804100, 0xFFF, 0x40804200, 0xFFF,
-                       0x40800000, 0xA59, 0x40800100, 0xFFF, 0x40800200, 0xFFF" />
+                       0x40800000, 0xA59, 0x40800100, 0xFFF, 0x40800200, 0xFFF, 0x40C48000, 0x1" />
 
     <!--Vertical Scroll boost-->
         <!-- LLCBW_MIN_FREQ resource opcode, value-->
